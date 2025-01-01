@@ -15,4 +15,10 @@ If you like this project, feel free to **star**, **fork**, or check out the **co
 [![Contributors](https://img.shields.io/github/contributors/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=flat-square)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/graphs/contributors)
 
 
+ ## Flow chart 
+![image](https://github.com/user-attachments/assets/bf3516c7-8b9e-4acd-8222-3f32361ff560)
+
+
+
+
 
