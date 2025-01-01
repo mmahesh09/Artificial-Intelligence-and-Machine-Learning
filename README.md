@@ -30,6 +30,9 @@ If you like this project, feel free to **star**, **fork**, or check out the **co
 
 Artificial Intelligence (AI) is the simulation of human intelligence in machines designed to think, learn, and perform tasks typically requiring human cognitive abilities. AI encompasses various techniques and technologies, enabling machines to perceive their environment, make decisions, solve problems, and adapt to new situations.
 
+
+
+
 ## History
 
 | **Year** | **Event**                                                                                             | **Description**                                                                                      |
@@ -54,6 +57,8 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 
 
 
+
+
 # Types of Artificial Intelligence
 
 | **Type of AI**                | **Description**                               | **Example(s)**                                |
@@ -69,6 +74,9 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 | **Natural Language Processing**| Processes and generates human language       | GPT-3, Google Translate, Siri               |
 | **Computer Vision**            | Interprets and analyzes visual data           | Facial recognition, medical imaging          |
 | **Robotics**                   | Physical robots performing tasks             | Drones, industrial robots, surgical robots   |
+
+
+
 
 
 # Terminologies of Artificial Intelligence
@@ -107,6 +115,8 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 | **Artificial General Intelligence (AGI)** | A type of AI that aims to replicate human-level cognitive abilities and can perform a wide range of tasks across different domains.                         |
 | **Artificial Narrow Intelligence (ANI)** | AI systems designed to perform specific tasks with high proficiency, but lacking general cognitive abilities.                                                |
 | **Ethical AI**                   | The creation of AI systems that align with ethical principles, ensuring fairness, transparency, accountability, and respect for human rights.               |
+
+
 
 # Core concepts of Artificial Intelligence
 ![WhatsApp Image 2025-01-02 at 01 33 52_9cc1ed23](https://github.com/user-attachments/assets/467c8ab1-bedb-4c13-845e-a3db345d769c)
