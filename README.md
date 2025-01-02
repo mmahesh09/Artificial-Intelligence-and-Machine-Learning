@@ -8,7 +8,7 @@
 
 If you like this project, feel free to **star**, **fork**, or check out the **contributors**:
 
-[![Stars](https://img.shields.io/github/stars/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/stargazers)
+[![Stars](https://img.shields.io/github/stars/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/stargazer)
 &nbsp;&nbsp;&nbsp;
 [![Forks](https://img.shields.io/github/forks/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/fork)
 &nbsp;&nbsp;&nbsp;
