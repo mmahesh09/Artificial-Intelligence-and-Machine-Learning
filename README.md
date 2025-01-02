@@ -108,7 +108,7 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 | **Autonomous Systems**           | Machines or robots capable of performing tasks or making decisions independently without human intervention, often powered by AI.                           |
 | **Chatbots**                     | AI-powered systems designed to simulate conversation with users, typically through text or voice.                                                          |
 | **Speech Recognition**           | The AI technology that allows machines to understand and interpret human speech, enabling voice commands and interactions.                                 |
-| **Computer Vision**              | The field of AI focused on enabling machines to interpret and analyze visual data from the world, like images and videos.                                    |
+| **Computer Vision**              | The field of AI focuses on enabling machines to interpret and analyze visual data from the world, like images and videos.                                    |
 | **AI Ethics**                     | The study of the moral and societal implications of AI technologies, addressing concerns like privacy, bias, accountability, and job displacement.           |
 | **Human-Computer Interaction (HCI)** | The study of how people interact with computers and AI systems, with an emphasis on usability and improving user experience.                                   |
 | **Swarm Intelligence**           | A type of artificial intelligence based on the collective behavior of decentralized systems, such as in the behavior of ants, bees, or drones.              |
