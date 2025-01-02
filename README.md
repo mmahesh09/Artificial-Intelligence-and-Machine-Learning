@@ -8,11 +8,16 @@
 
 If you like this project, feel free to **star**, **fork**, or check out the **contributors**:
 
-[![Stars](https://img.shields.io/github/stars/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/stargazer)
+[![Stars](https://img.shields.io/github/stars/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/stargazers)
 &nbsp;&nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/fork)
+[![Forks](https://img.shields.io/github/forks/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/network/members)
 &nbsp;&nbsp;&nbsp;
-[![Contributors](https://img.shields.io/github/contributors/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=flat-square)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/graphs/contributors).
+[![Contributors](https://img.shields.io/github/contributors/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=flat-square&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/graphs/contributors)
+&nbsp;&nbsp;&nbsp;
+[![Watchers](https://img.shields.io/github/watchers/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/watchers)
+&nbsp;&nbsp;&nbsp;
+[![Commits](https://img.shields.io/github/commit-activity/total/mmahesh09/Artificial-Intelligence-and-Machine-Learning?t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/commits)
+
 
 
  ## Flow chart 
