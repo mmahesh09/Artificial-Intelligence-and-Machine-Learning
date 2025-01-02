@@ -13,12 +13,13 @@
 
 | **Prerequisite**       | **Description**                                                                                   | **Recommended YouTube Video**                                                                                   |
 |------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| **Linear Algebra**     | Understanding vectors, matrices, and operations involving them is crucial for algorithms and data representation in machine learning. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
-| **Calculus**           | Grasping derivatives and integrals aids in understanding optimization algorithms used in training models. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
-| **Probability & Statistics** | Knowledge of probability distributions, statistical tests, and data analysis is essential for making inferences and predictions. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
-| **Programming Skills** | Proficiency in programming languages, particularly Python, is necessary for implementing algorithms and handling data. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
-| **Data Structures & Algorithms** | Understanding data organization and algorithmic problem-solving enhances efficiency in model implementation. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
-| **Domain Knowledge**   | Familiarity with the specific field of application helps in selecting appropriate models and interpreting results effectively. | [Machine Learning Prerequisites](https://www.youtube.com/watch?v=AqGtnEM7S6U)                                    |
+| **Linear Algebra**     | Understanding vectors, matrices, and operations involving them is crucial for algorithms and data representation in machine learning. | [Link](https://youtu.be/rSjt1E9WHaQ?si=X-t1j5GXb7wj9ls-)                                    |
+| **Calculus**           | Grasping derivatives and integrals aids in understanding optimization algorithms used in training models. | [Link](https://youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx&si=3lV92cuxrDRoigbn)                                    |
+| **Probability & Statistics** | Knowledge of probability distributions, statistical tests, and data analysis is essential for making inferences and predictions. | [Link](https://www.geeksforgeeks.org/statistics-for-machine-learning/)                                    |
+| **Programming Skills** | Proficiency in programming languages, particularly Python, is necessary for implementing algorithms and handling data. | [Link](https://youtu.be/qwAFL1597eM?si=5jroV5AdBkVfPXc9)                                    |
+| **Data Structures & Algorithms** | Understanding data organization and algorithmic problem-solving enhances efficiency in model implementation. | [Link](https://youtu.be/f9Aje_cN_CY?si=lKhTYiW1l-82NY8p)                                    |
+| **Domain Knowledge**   | Familiarity with the specific field of application helps in selecting appropriate models and interpreting results effectively. | [Link](https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE&si=Ws5D9txm1ktqZuFf)                                    |
+                                  |
 
 
 # Machine Learning
