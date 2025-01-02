@@ -19,7 +19,7 @@
 | **Programming Skills** | Proficiency in programming languages, particularly Python, is necessary for implementing algorithms and handling data. | [Link](https://youtu.be/qwAFL1597eM?si=5jroV5AdBkVfPXc9)                                    |
 | **Data Structures & Algorithms** | Understanding data organization and algorithmic problem-solving enhances efficiency in model implementation. | [Link](https://youtu.be/f9Aje_cN_CY?si=lKhTYiW1l-82NY8p)                                    |
 | **Domain Knowledge**   | Familiarity with the specific field of application helps in selecting appropriate models and interpreting results effectively. | [Link](https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE&si=Ws5D9txm1ktqZuFf)                                    |
-                                  |
+                                  
 
 
 # Machine Learning
