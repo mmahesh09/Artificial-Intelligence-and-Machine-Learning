@@ -16,7 +16,6 @@ If you like this project, feel free to **star**, **fork**, or check out the **co
 &nbsp;&nbsp;&nbsp;
 [![Watchers](https://img.shields.io/github/watchers/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/watchers)
 &nbsp;&nbsp;&nbsp;
-[![Commits](https://img.shields.io/github/commit-activity/total/mmahesh09/Artificial-Intelligence-and-Machine-Learning)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/commits)
 
 
 
