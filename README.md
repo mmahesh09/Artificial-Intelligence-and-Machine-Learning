@@ -12,7 +12,7 @@ If you like this project, feel free to **star**, **fork**, or check out the **co
 &nbsp;&nbsp;&nbsp;
 [![Forks](https://img.shields.io/github/forks/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/fork)
 &nbsp;&nbsp;&nbsp;
-[![Contributors](https://img.shields.io/github/contributors/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=flat-square)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/graphs/contributors)(https://github.com/gowhar06).
+[![Contributors](https://img.shields.io/github/contributors/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=flat-square)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/graphs/contributors).
 
 
  ## Flow chart 
