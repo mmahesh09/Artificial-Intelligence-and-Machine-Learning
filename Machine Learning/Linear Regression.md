@@ -1,4 +1,4 @@
-# What is Linear Regression?
+### What is Linear Regression?
 
 Linear regression is a statistical method used to model the relationship between a dependent variable (target) and one or more independent variables (predictors). It is one of the simplest and most widely used techniques in data analysis and machine learning.
 
@@ -42,7 +42,7 @@ For linear regression to provide reliable results, the following assumptions sho
 
 ---
 
-### Example Use Cases
+## Example Use Cases
 
 - **Business**: Predicting sales based on advertising spend.
 - **Finance**: Forecasting stock prices or economic trends.
@@ -51,7 +51,7 @@ For linear regression to provide reliable results, the following assumptions sho
 
 ---
 
-### Advantages
+## Advantages
 
 - Easy to implement and interpret.
 - Computationally efficient.
@@ -59,11 +59,21 @@ For linear regression to provide reliable results, the following assumptions sho
 
 ---
 
-### Limitations
+## Limitations
 
 - Sensitive to outliers, which can skew the results.
 - Cannot model complex, non-linear relationships unless transformed.
 - Assumptions must be met for the model to be valid.
 
 ---
+
+![image](https://github.com/user-attachments/assets/053ac844-0876-4a7a-8162-d1ba2c9001fd)
+
+Here Y is called a dependent or target variable and X is called an independent variable also known as the predictor of Y. There are many types of functions or modules that can be used for regression. A linear function is the simplest type of function. Here, X may be a single feature or multiple features representing the problem.
+
+Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x)). Hence, the name is Linear Regression. In the figure above, X (input) is the work experience and Y (output) is the salary of a person. The regression line is the best-fit line for our model. 
+
+We utilize the cost function to compute the best values in order to get the best fit line since different values for weights or the coefficient of lines result in different regression lines.
+
+
 
