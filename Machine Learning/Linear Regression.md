@@ -1,4 +1,6 @@
 ### What is Linear Regression?
+![Link Code](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/blob/e57d1bb2c3094c1c98ba7c9ab2af84b100462189/Machine%20Learning/Code%20Snipets/linear_regression.ipynb)
+
 
 Linear regression is a statistical method used to model the relationship between a dependent variable (target) and one or more independent variables (predictors). It is one of the simplest and most widely used techniques in data analysis and machine learning.
 
