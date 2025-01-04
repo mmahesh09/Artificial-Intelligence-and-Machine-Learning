@@ -1,12 +1,28 @@
 ### What is Linear Regression?
-![Link](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/blob/e57d1bb2c3094c1c98ba7c9ab2af84b100462189/Machine%20Learning/Code%20Snipets/linear_regression.ipynb)
+[Link](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/blob/e57d1bb2c3094c1c98ba7c9ab2af84b100462189/Machine%20Learning/Code%20Snipets/linear_regression.ipynb)
 
 
 Linear regression is a statistical method for modeling the relationship between a dependent variable (target) and one or more independent variables (predictors). It is one of the simplest and most widely used techniques in data analysis and machine learning.
 
 ---
+# Best Resources to learn Linear Regression
 
-### Types of Linear Regression
+| Type           | Title/Description                                               | Link                                                     |
+|----------------|-----------------------------------------------------------------|----------------------------------------------------------|
+| **YouTube Video**   | **StatQuest: Linear Regression**                               | [Watch on YouTube](https://www.youtube.com/watch?v=ZkjP5RJLQF4) |
+| **YouTube Video**   | **Linear Regression - Machine Learning Basics**                | [Watch on YouTube](https://www.youtube.com/watch?v=J_Mr37D8g3A) |
+| **Article**        | **Understanding Linear Regression**                            | [Read on Towards Data Science](https://towardsdatascience.com/understanding-linear-regression-cc9b43e458fe) |
+| **Article**        | **A Complete Guide to Linear Regression**                       | [Read on Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/02/understanding-linear-regression-with-examples/) |
+| **Course**         | **Linear Regression in Machine Learning (Coursera)**           | [Enroll on Coursera](https://www.coursera.org/learn/machine-learning) |
+| **Course**         | **Machine Learning A-Z: Linear Regression (Udemy)**             | [Enroll on Udemy](https://www.udemy.com/course/machinelearning/) |
+| **Course**         | **Introduction to Linear Regression (DataCamp)**               | [Start Course on DataCamp](https://www.datacamp.com/courses/linear-regression-in-python) |
+| **Program**        | **Linear Regression with Python (Scikit-learn)**               | [View on GitHub](https://github.com/justmarkham/scikit-learn-videos/tree/master/02-linear-regression) |
+| **Program**        | **Implementing Linear Regression from Scratch (Python)**       | [View on GitHub](https://github.com/llSourcell/Linear_Regression_From_Scratch) |
+| **Article**        | **A Detailed Introduction to Linear Regression**               | [Read on GeeksforGeeks](https://www.geeksforgeeks.org/linear-regression-in-machine-learning/) |
+| **Article**        | **Linear Regression: What, Why, and How?**                     | [Read on Medium](https://medium.com/analytics-vidhya/linear-regression-what-why-and-how-19ad456ab4e2) |
+
+
+# Types of Linear Regression
 
 1. **Simple Linear Regression**: 
    - Involves one independent variable and one dependent variable.
@@ -22,7 +38,7 @@ Linear regression is a statistical method for modeling the relationship between 
 
 ---
 
-### Assumptions of Linear Regression
+# Assumptions of Linear Regression
 For linear regression to provide reliable results, the following assumptions should hold:
 
 1. **Linearity**: The relationship between the independent and dependent variables is linear.
@@ -32,8 +48,7 @@ For linear regression to provide reliable results, the following assumptions sho
 5. **No Multicollinearity**: For multiple regression, independent variables should not be highly correlated.
 
 ---
-
-### How Linear Regression Works
+# How Linear Regression Works
 
 1. **Model Training**:
    - Linear regression finds the best-fitting line by minimizing the sum of squared residuals (the vertical distance between the observed and predicted values).
