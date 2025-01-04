@@ -13,7 +13,7 @@ This table summarizes popular supervised ML algorithms, their functionality, and
 
 | **Algorithm**            | **Description**                                                                 | **Type**            | **Real-World Example**                                                   |
 |---------------------------|---------------------------------------------------------------------------------|---------------------|---------------------------------------------------------------------------|
-| **Linear Regression**     | Predicts a continuous target variable based on input features.                  | Regression          | Predicting house prices based on size, location, and amenities.          |
+|![ **Linear Regression**](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/blob/eee29dda0ffb309d834be81db6a732442ec22ba0/Machine%20Learning/Linear%20Regression.md)     | Predicts a continuous target variable based on input features.                  | Regression          | Predicting house prices based on size, location, and amenities.          |
 | **Logistic Regression**   | Predicts binary or multi-class outcomes using a logistic function.              | Classification      | Email spam detection (spam vs. not spam).                                |
 | **Decision Trees**        | Splits data into branches based on feature values for predictions.              | Regression, Classification | Loan approval based on credit score, income, and age.               |
 | **Random Forest**         | Ensemble of decision trees that improves accuracy and reduces overfitting.      | Regression, Classification | Fraud detection in online transactions.                            |
