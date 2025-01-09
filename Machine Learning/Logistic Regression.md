@@ -5,6 +5,40 @@ Logistic Regression is a supervised machine learning algorithm used for classifi
 ## Logistic Regression Equations
 Logistic Regression is a statistical model used for binary classification. It predicts the probability of a binary outcome (e.g., 0 or 1) based on one or more input features.
 
+# Terminologies in Logistic Regression
+
+| **Term**                     | **Definition**                                                                                     |
+|-------------------------------|---------------------------------------------------------------------------------------------------|
+| **Logistic Regression**       | A statistical method used for binary or multiclass classification problems.                      |
+| **Sigmoid Function**          | A mathematical function that maps input values to probabilities in the range [0, 1].             |
+| **Odds**                      | The ratio of the probability of success to the probability of failure.                           |
+| **Logit Function**            | The natural log of the odds, used to model the relationship between predictors and the response.  |
+| **Binary Classification**     | Classification into one of two categories, e.g., yes/no or 0/1.                                  |
+| **Multinomial Classification**| Logistic regression extended for multiple classes using softmax or one-vs-rest strategies.       |
+| **Coefficients (β)**          | Parameters in the logistic regression model representing the relationship between predictors and the outcome. |
+| **Intercept (β₀)**            | The bias term in the logistic regression equation.                                               |
+| **Maximum Likelihood Estimation (MLE)** | A method for estimating model parameters by maximizing the likelihood of observed data.       |
+| **Gradient Descent**          | An optimization algorithm used to minimize the loss function by iteratively updating parameters. |
+| **Cross-Entropy Loss**        | A loss function used to measure the performance of the logistic regression model.                |
+| **Confusion Matrix**          | A table summarizing the performance of a classification model (TP, TN, FP, FN).                 |
+| **Accuracy**                  | The ratio of correctly predicted instances to the total instances.                               |
+| **Precision**                 | The ratio of true positives to the total predicted positives.                                    |
+| **Recall (Sensitivity)**      | The ratio of true positives to the total actual positives.                                       |
+| **F1-Score**                  | The harmonic mean of precision and recall, used to balance their trade-offs.                    |
+| **ROC Curve**                 | A graph showing the true positive rate (TPR) vs. false positive rate (FPR) at various thresholds.|
+| **AUC (Area Under Curve)**    | A single number summarizing the performance of the model across all classification thresholds.   |
+| **Regularization**            | Techniques like L1 (Lasso) and L2 (Ridge) used to prevent overfitting by penalizing large coefficients. |
+| **Overfitting**               | A scenario where the model performs well on training data but poorly on unseen data.             |
+| **Underfitting**              | A scenario where the model is too simple and fails to capture the underlying patterns in the data.|
+| **Feature Scaling**           | The process of normalizing or standardizing input features to improve model performance.         |
+| **Multicollinearity**         | High correlation between independent variables that can affect the stability of coefficient estimates. |
+| **One-vs-All (OvA)**          | A strategy for extending logistic regression to multiclass problems by training one model per class. |
+| **Softmax Function**          | A generalization of the sigmoid function for multiclass classification.                         |
+
+---
+
+
+
 ## Logistic Function – Sigmoid Function
 The sigmoid function is a mathematical function used to map the predicted values to probabilities.
 It maps any real value into another value within a range of 0 and 1. The value of the logistic regression must be between 0 and 1, which cannot go beyond this limit, so it forms a curve like the “S” form.
