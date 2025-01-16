@@ -10,6 +10,7 @@ If you like this project, feel free to **star**, **fork**, or check out the **co
 
 
 
+
 [![Stars](https://img.shields.io/github/stars/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/stargazers)
 &nbsp;&nbsp;&nbsp;
 [![Forks](https://img.shields.io/github/forks/mmahesh09/Artificial-Intelligence-and-Machine-Learning?style=social&t=12345)](https://github.com/mmahesh09/Artificial-Intelligence-and-Machine-Learning/network/members)
@@ -154,7 +155,7 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 
 
 # Machine Learning
-Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on developing systems capable of learning and improving from experience without being explicitly programmed. ML algorithms use data to identify patterns, make predictions, or take decisions, adapting their performance as they are exposed to more data.
+Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on developing systems capable of learning and improving from experience without being explicitly programmed. ML algorithms use data to identify patterns, make predictions, or make decisions, adapting their performance as they are exposed to more data.
 
 # Why Machine Learning?
 
