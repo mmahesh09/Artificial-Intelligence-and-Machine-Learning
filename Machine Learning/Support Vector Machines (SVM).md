@@ -133,3 +133,30 @@ So, whether you’re classifying emails, detecting fraud, or diving into image r
 
 ## Example Usage
 For a detailed explanation of these terms in the context of an SVM implementation, refer to the [scikit-learn documentation](https://scikit-learn.org/stable/modules/svm.html).
+
+
+## Comparison: Linear Regression vs Logistic Regression vs Support Vector Machine (SVM)
+
+| **Aspect**                | **Linear Regression**                                                                 | **Logistic Regression**                                                                     | **Support Vector Machine (SVM)**                                                        |
+|---------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Purpose**               | Predicts continuous values (regression tasks).                                        | Predicts probabilities for classification tasks (binary or multi-class).                   | Primarily used for classification, but can also handle regression tasks.                |
+| **Output**                | A continuous numeric value (e.g., house price, temperature).                          | Probability of belonging to a class (0 or 1).                                              | Class labels (e.g., 0 or 1) based on the hyperplane decision boundary.                  |
+| **Decision Boundary**     | Not applicable (regression task).                                                     | A logistic curve (sigmoid) is used for classification.                                     | A hyperplane or decision boundary that separates classes with the largest possible margin. |
+| **Mathematical Model**    | Minimizes the mean squared error (MSE) to fit a straight line to the data.             | Uses the sigmoid function to map predictions to probabilities.                             | Maximizes the margin between classes and uses support vectors for classification.        |
+| **Core Equation**         | \( y = \mathbf{w} \cdot \mathbf{x} + b \)                                             | \( P(y=1) = \frac{1}{1 + e^{-(\mathbf{w} \cdot \mathbf{x} + b)}} \)                        | Finds the hyperplane that maximizes \( \frac{1}{||\mathbf{w}||} \).                      |
+| **Loss Function**         | Mean Squared Error (MSE): \( \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \).        | Log-Loss: \( - \frac{1}{n} \sum_{i=1}^{n} y_i \log(\hat{y}_i) + (1-y_i)\log(1-\hat{y}_i) \).| Hinge Loss: \( \sum_{i=1} \max(0, 1 - y_i (\mathbf{w} \cdot \mathbf{x}_i + b)) \).        |
+| **Handles Linear Data?**  | Yes.                                                                                  | Yes.                                                                                       | Yes (with linear kernel).                                                                |
+| **Handles Non-Linear Data?** | No.                                                                                   | No (unless using feature transformation).                                                  | Yes, with kernels like RBF, Polynomial, etc.                                            |
+| **Feature Scaling Needed?** | No, not required.                                                                     | Yes, recommended for faster convergence.                                                  | Yes, critical for proper performance.                                                   |
+| **Regularization**        | Typically uses \( L2 \)-norm regularization to avoid overfitting.                     | Uses \( L1 \), \( L2 \), or both for regularization (Ridge, Lasso, or ElasticNet variants). | Regularization is controlled by the parameter \( C \), which balances margin and misclassification. |
+| **Interpretability**      | High (coefficients directly relate to feature influence).                              | High (coefficients indicate how features influence class probabilities).                   | Moderate (kernel transformations make it less interpretable in non-linear cases).        |
+| **Computation Complexity**| Low (fast and efficient).                                                             | Low (efficient for small and medium-sized datasets).                                       | High for large datasets (requires quadratic optimization).                              |
+| **Applications**          | Predicting house prices, stock values, and other continuous outcomes.                 | Spam detection, customer churn prediction, medical diagnosis (classification problems).    | Image classification, text categorization, and anomaly detection.                       |
+
+---
+
+### Summary
+- **Linear Regression** is for continuous predictions.  
+- **Logistic Regression** is for binary or multi-class classification.  
+- **SVM** excels in both linear and non-linear classification tasks, with its ability to maximize margins and use kernel tricks.
+
