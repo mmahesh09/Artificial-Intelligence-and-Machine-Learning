@@ -179,7 +179,7 @@ Common algorithms include Decision Trees, Support Vector Machines, and Neural Ne
 ---
 
 ### 2. **Unsupervised Learning**  
-Unsupervised learning works on unlabeled data to identify patterns, groupings, or structures. It’s used when no explicit output is provided, often for clustering or dimensionality reduction.  
+Unsupervised learning uses unlabeled data to identify patterns, groupings, or structures. It’s used when no explicit output is provided, often for clustering or dimensionality reduction.  
 **Examples**:  
 - **Clustering**: Customer segmentation in marketing (grouping customers by behavior).  
 - **Dimensionality Reduction**: Reducing features in large datasets, like PCA for image compression.  
